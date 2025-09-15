@@ -15,9 +15,9 @@
               "state": {
                 "file": "main/todo/Расписание и дз.canvas",
                 "viewState": {
-                  "x": -28.5,
-                  "y": 30,
-                  "zoom": -1.7600024439193434
+                  "x": -986.4118521073601,
+                  "y": 230.6593779082791,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -236,7 +236,7 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "1d31964c279a1f98",
+  "active": "f1527da916899c2f",
   "lastOpenFiles": [
     "main/todo/Безымянная Kanban-доска.md",
     "main/todo/Расписание и дз.canvas",
