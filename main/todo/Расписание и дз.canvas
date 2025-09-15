@@ -72,7 +72,7 @@
 		{
 			"id":"4e6946042d678d9f",
 			"type":"text",
-			"text":"Java\n",
+			"text":"Java\nСДЕЛАНО",
 			"styleAttributes":{},
 			"x":-2140,
 			"y":902,
@@ -115,17 +115,6 @@
 			"width":260,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"b94dfa1901d77d2e",
-			"type":"text",
-			"text":"МЛ ДОДЕЛАТЬ",
-			"styleAttributes":{},
-			"x":-2400,
-			"y":842,
-			"width":260,
-			"height":60,
-			"color":"3"
 		}
 	],
 	"edges":[
