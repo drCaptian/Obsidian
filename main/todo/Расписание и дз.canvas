@@ -1,52 +1,5 @@
 {
 	"nodes":[
-		{"id":"45f2c9c6fb5c9bad","type":"file","file":"main/png/Pasted image 20250904155638.png","x":-1620,"y":962,"width":202,"height":606},
-		{
-			"id":"56cb0b1ee3aa92d7",
-			"type":"text",
-			"text":"на 04.09 дз\n\n",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-2400,
-			"y":762,
-			"width":520,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"04442a81b8cf6eeb",
-			"type":"text",
-			"text":"ML СДЕЛАНО ",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2140,
-			"y":842,
-			"width":260,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"b83ae2e202a5e9b0",
-			"type":"text",
-			"text":"Творческое задание (по желанию): проанализировать основные отличия между своим языком и java. Формат - рукописный текст на двойном листочке  \nДедлайн - 10.09",
-			"styleAttributes":{},
-			"x":-1418,
-			"y":962,
-			"width":658,
-			"height":583
-		},
-		{
-			"id":"5fd2220cdbc6ea82",
-			"type":"text",
-			"text":"в IDE И ТЕТРАДЬ ОРАНЖЕВАЯ",
-			"styleAttributes":{},
-			"x":-580,
-			"y":1235,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
 		{
 			"id":"e9500dabae87364f",
 			"type":"text",
@@ -69,99 +22,84 @@
 			"height":280,
 			"color":"1"
 		},
-		{
-			"id":"4e6946042d678d9f",
-			"type":"text",
-			"text":"Java\nСДЕЛАНО",
-			"styleAttributes":{},
-			"x":-2140,
-			"y":902,
-			"width":260,
-			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"14c13c13269f05f5",
-			"type":"text",
-			"text":"https://colab.research.google.com/drive/1MGtrEtYsWa34HHXRf8xZ3TtBqcANQRmU?usp=sharing",
-			"styleAttributes":{},
-			"x":-680,
-			"y":608,
-			"width":320,
-			"height":210,
-			"color":"3"
-		},
-		{"id":"c117bd34fcf1b8de","type":"file","file":"main/png/Pasted image 20250904155412.png","x":-1620,"y":464,"width":723,"height":498},
 		{"id":"46a4029bcecd06c8","type":"file","file":"Pasted image 20250909175800.png","x":360,"y":-1508,"width":1863,"height":1397},
-		{"id":"1c47a55ecfbaa138","type":"file","file":"main/png/расписание 1.pdf","x":-1180,"y":-1200,"width":1420,"height":700},
+		{"id":"1c47a55ecfbaa138","type":"file","file":"main/png/расписание 1.pdf","x":-1240,"y":-1320,"width":1420,"height":700},
 		{
-			"id":"82d9b59fd39f3273",
+			"id":"56cb0b1ee3aa92d7",
 			"type":"text",
-			"text":"ТП\n",
-			"styleAttributes":{},
-			"x":-2140,
-			"y":962,
-			"width":260,
-			"height":60,
-			"color":"4"
+			"text":"на 29.09 - 05.10 дз\n\n",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-2080,
+			"y":260,
+			"width":520,
+			"height":80,
+			"color":"2"
 		},
 		{
-			"id":"e9b324892ee4e4ac",
+			"id":"bee474cb2d926b4c",
+			"type":"text",
+			"text":"ML",
+			"styleAttributes":{},
+			"x":-2080,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3412498bfe4b9674",
+			"type":"text",
+			"text":"ТП",
+			"styleAttributes":{},
+			"x":-1820,
+			"y":340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ba7b6f140e2d1c41",
 			"type":"text",
 			"text":"ВАХИТОВ",
 			"styleAttributes":{},
-			"x":-2140,
-			"y":1022,
+			"x":-2080,
+			"y":400,
 			"width":260,
-			"height":60,
-			"color":"1"
+			"height":60
+		},
+		{
+			"id":"8680a2e64beafa09",
+			"type":"text",
+			"text":"Java",
+			"styleAttributes":{},
+			"x":-1820,
+			"y":400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"aeb0201f5e5f9359",
+			"type":"text",
+			"text":"БД",
+			"styleAttributes":{},
+			"x":-2080,
+			"y":460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b2dda5441fa103e8",
+			"type":"text",
+			"text":"ФЛП",
+			"styleAttributes":{},
+			"x":-1820,
+			"y":460,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[
-		{
-			"id":"faba248c860f0017",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"04442a81b8cf6eeb",
-			"fromSide":"right",
-			"toNode":"c117bd34fcf1b8de",
-			"toSide":"left",
-			"color":"3",
-			"label":"до 09.09 "
-		},
-		{
-			"id":"8a7fcdf2bb93cace",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c117bd34fcf1b8de",
-			"fromSide":"right",
-			"toNode":"14c13c13269f05f5",
-			"toSide":"left",
-			"label":"DONE"
-		},
-		{
-			"id":"4a6c87b7f79dd4f7",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"b83ae2e202a5e9b0",
-			"fromSide":"right",
-			"toNode":"5fd2220cdbc6ea82",
-			"toSide":"left",
-			"label":"DONE"
-		},
-		{
-			"id":"6c67efd957555124",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"4e6946042d678d9f",
-			"fromSide":"right",
-			"toNode":"45f2c9c6fb5c9bad",
-			"toSide":"left",
-			"color":"6"
-		}
-	],
+	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
