@@ -32,8 +32,8 @@
 				"textAlign":"center",
 				"shape":null
 			},
-			"x":-2080,
-			"y":260,
+			"x":-1760,
+			"y":-281,
 			"width":520,
 			"height":80,
 			"color":"2"
@@ -43,8 +43,8 @@
 			"type":"text",
 			"text":"ML",
 			"styleAttributes":{},
-			"x":-2080,
-			"y":340,
+			"x":-1760,
+			"y":-201,
 			"width":260,
 			"height":60
 		},
@@ -53,8 +53,8 @@
 			"type":"text",
 			"text":"ТП",
 			"styleAttributes":{},
-			"x":-1820,
-			"y":340,
+			"x":-1500,
+			"y":-201,
 			"width":260,
 			"height":60
 		},
@@ -63,8 +63,8 @@
 			"type":"text",
 			"text":"ВАХИТОВ",
 			"styleAttributes":{},
-			"x":-2080,
-			"y":400,
+			"x":-1760,
+			"y":-141,
 			"width":260,
 			"height":60
 		},
@@ -73,8 +73,8 @@
 			"type":"text",
 			"text":"Java",
 			"styleAttributes":{},
-			"x":-1820,
-			"y":400,
+			"x":-1500,
+			"y":-141,
 			"width":260,
 			"height":60
 		},
@@ -83,8 +83,8 @@
 			"type":"text",
 			"text":"БД",
 			"styleAttributes":{},
-			"x":-2080,
-			"y":460,
+			"x":-1760,
+			"y":-81,
 			"width":260,
 			"height":60
 		},
@@ -93,8 +93,8 @@
 			"type":"text",
 			"text":"ФЛП",
 			"styleAttributes":{},
-			"x":-1820,
-			"y":460,
+			"x":-1500,
+			"y":-81,
 			"width":260,
 			"height":60
 		}
