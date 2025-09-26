@@ -39,16 +39,6 @@
 			"color":"2"
 		},
 		{
-			"id":"bee474cb2d926b4c",
-			"type":"text",
-			"text":"ML",
-			"styleAttributes":{},
-			"x":-1760,
-			"y":-201,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"3412498bfe4b9674",
 			"type":"text",
 			"text":"ТП",
@@ -79,22 +69,12 @@
 			"height":60
 		},
 		{
-			"id":"aeb0201f5e5f9359",
-			"type":"text",
-			"text":"БД",
-			"styleAttributes":{},
-			"x":-1760,
-			"y":-81,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"b2dda5441fa103e8",
 			"type":"text",
 			"text":"ФЛП",
 			"styleAttributes":{},
-			"x":-1500,
-			"y":-81,
+			"x":-1760,
+			"y":-201,
 			"width":260,
 			"height":60
 		}
