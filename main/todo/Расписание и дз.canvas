@@ -49,26 +49,6 @@
 			"height":60
 		},
 		{
-			"id":"ba7b6f140e2d1c41",
-			"type":"text",
-			"text":"ВАХИТОВ",
-			"styleAttributes":{},
-			"x":-1760,
-			"y":-141,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8680a2e64beafa09",
-			"type":"text",
-			"text":"Java",
-			"styleAttributes":{},
-			"x":-1500,
-			"y":-141,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"b2dda5441fa103e8",
 			"type":"text",
 			"text":"ФЛП",
@@ -77,9 +57,39 @@
 			"y":-201,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"ba7b6f140e2d1c41",
+			"type":"text",
+			"text":"ВАХИТОВ",
+			"styleAttributes":{},
+			"x":-1630,
+			"y":-141,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bb7e0a90277f339c",
+			"type":"text",
+			"text":"Google Studio api ",
+			"styleAttributes":{},
+			"x":-1100,
+			"y":-171,
+			"width":260,
+			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"a27b09ce07135432",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3412498bfe4b9674",
+			"fromSide":"right",
+			"toNode":"bb7e0a90277f339c",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
