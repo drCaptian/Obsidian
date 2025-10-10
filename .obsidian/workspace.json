@@ -28,12 +28,17 @@
             "id": "5b11edf3f01e0723",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": 1588.005523809524,
+                  "y": -405.4684717261905,
+                  "zoom": -0.6530381728171386
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.14"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
             }
           }
         ],
