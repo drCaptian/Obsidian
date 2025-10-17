@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 471.5
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -249,7 +249,7 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "ff645ea872b39c37",
+  "active": "84eabfa74f5fca90",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-10-17 15.04.25.excalidraw.md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/11. Алгоритм симплекс-метода..md",
