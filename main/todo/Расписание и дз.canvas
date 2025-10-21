@@ -1,95 +1,9 @@
 {
 	"nodes":[
-		{
-			"id":"e9500dabae87364f",
-			"type":"text",
-			"text":"ДОПКИ\n",
-			"styleAttributes":{},
-			"x":-2280,
-			"y":-870,
-			"width":800,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"85de9ef6f3933f14",
-			"type":"text",
-			"text":"|   |   |   |\n|---|---|---|\n|Методы оптимизации|Экзамен|Заботин И.Я., 19.09.2025 (пятн), 14:00, ауд. 1101|",
-			"styleAttributes":{},
-			"x":-2280,
-			"y":-810,
-			"width":400,
-			"height":280,
-			"color":"1"
-		},
 		{"id":"46a4029bcecd06c8","type":"file","file":"Pasted image 20250909175800.png","x":360,"y":-1508,"width":1863,"height":1397},
-		{"id":"1c47a55ecfbaa138","type":"file","file":"main/png/расписание 1.pdf","x":-1240,"y":-1840,"width":1420,"height":1480},
-		{
-			"id":"56cb0b1ee3aa92d7",
-			"type":"text",
-			"text":"на 29.09 - 05.10 дз\n\n",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-1760,
-			"y":-281,
-			"width":520,
-			"height":80,
-			"color":"2"
-		},
-		{
-			"id":"b2dda5441fa103e8",
-			"type":"text",
-			"text":"ФЛП",
-			"styleAttributes":{},
-			"x":-1760,
-			"y":-201,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3412498bfe4b9674",
-			"type":"text",
-			"text":"ТП",
-			"styleAttributes":{},
-			"x":-1100,
-			"y":-20,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"bb7e0a90277f339c",
-			"type":"text",
-			"text":"Google Studio api ",
-			"styleAttributes":{},
-			"x":-720,
-			"y":10,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ba7b6f140e2d1c41",
-			"type":"text",
-			"text":"ВАХИТОВ",
-			"styleAttributes":{},
-			"x":-1500,
-			"y":-201,
-			"width":260,
-			"height":60
-		}
+		{"id":"1c47a55ecfbaa138","type":"file","file":"main/png/расписание 1.pdf","x":-1240,"y":-1840,"width":1420,"height":1480}
 	],
-	"edges":[
-		{
-			"id":"a27b09ce07135432",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"3412498bfe4b9674",
-			"fromSide":"right",
-			"toNode":"bb7e0a90277f339c",
-			"toSide":"left"
-		}
-	],
+	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
