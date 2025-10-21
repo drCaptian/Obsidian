@@ -11,12 +11,17 @@
             "id": "f1527da916899c2f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-17 15.04.25.excalidraw.md"
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": 694.8103182773079,
+                  "y": -775.4394069929856,
+                  "zoom": -0.6436420610546496
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-17 15.04.25.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
             }
           },
           {
