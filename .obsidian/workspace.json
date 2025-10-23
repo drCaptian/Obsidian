@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "main/универское поебота/АС курсач/АС/АС.md"
+                "file": "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "АС"
+              "title": "Drawing 2025-10-17 15.04.25.excalidraw"
             }
           },
           {
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 471.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -245,6 +246,7 @@
   },
   "active": "f1527da916899c2f",
   "lastOpenFiles": [
+    "main/универское поебота/АС курсач/АС/АС.md",
     "main/todo/Расписание и дз.canvas",
     "main/универское поебота/Методы Оптимизации завезите.zip",
     "main/универское поебота/Методы Оптимизации завезите.7z",
