@@ -32,8 +32,8 @@
               "state": {
                 "file": "main/todo/Расписание и дз.canvas",
                 "viewState": {
-                  "x": 906.85290259042,
-                  "y": -851.2577532464238,
+                  "x": 1621.6415578822564,
+                  "y": -857.6114301823512,
                   "zoom": -0.7722891141722084
                 }
               },
@@ -49,8 +49,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2025-10-17 15.04.25.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-17 15.04.25.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           }
         ],
@@ -220,8 +220,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -230,8 +230,8 @@
             "state": {
               "type": "graph-analysis",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
             }
           }
         ],
@@ -255,15 +255,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Создать новую доску": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "webpage-html-export:Export as HTML": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "soundscapes:Soundscapes: My Music": false,
-      "tg-emoji-search:Emoji suggester": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "619e0252791aef45",
